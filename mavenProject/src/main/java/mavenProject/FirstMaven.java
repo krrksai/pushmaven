@@ -6,6 +6,7 @@ public class FirstMaven {
 		// TODO Auto-generated method stub
 		System.out.println("First Maven");
 		System.out.println("Second commit");
+		System.out.println("Third Change - Commit");
 	}
 
 }
